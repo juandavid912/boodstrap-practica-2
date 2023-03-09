@@ -1,0 +1,23 @@
+.container{
+    background-color: rgb(192, 192, 192);
+}
+
+
+.bg-primary{
+    background-color: hsl(263, 55%, 52%)!important;
+}
+
+.bg-secondary{
+background-color: hsl(217, 19%, 35%)!important;
+}
+.bg-success{
+    background-color:hsl(217, 28%, 41%) !important;
+}
+
+.fs-7{
+    font-size: 13px !important;
+}
+.rounded-circle{
+    width: 40px !important;
+    height: 40px !important;
+}
